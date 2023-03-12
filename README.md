@@ -61,7 +61,7 @@ Now, we can get started and use these principles as a guideline.
 ### Host your resume on GitHub Pages
 
 1. GitHub
-- Go to [GitHub homepage].(https://github.com/)
+- Go to [GitHub homepage](https://github.com/).
 - Log in and locate the main page.
 - Click Create a new repository.
 - Choose a name for the repository.
