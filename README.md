@@ -92,7 +92,7 @@ Now, we can get started and use these principles as a guideline.
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 
 ## Authors and Acklowedgments
-- template author
+- [David Darnes](https://github.com/daviddarnes): Creator of Jekyll theme used
 - Aditya Kashyap 
 - Akashkumar Ghelani 
 - Saif Mahmud 
