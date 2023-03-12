@@ -39,7 +39,7 @@ Now, we can get started and use these principles as a guideline.
 ### Download and edit a resume theme
 
 1. Find a theme and edit it
-- Go to `RubyGems.`  (https://rubygems.org/)
+- Go to [RubyGems](https://rubygems.org/).
 - Search "Jekyll resume theme".
 - Click on any resume theme that might interest you.
 - Click "Homepage" under links to view and download the theme
