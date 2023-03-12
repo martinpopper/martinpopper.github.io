@@ -11,9 +11,9 @@
 - A Resume formatted in Markdown.
 - [Git installed](https://git-scm.com/downloads)
 
+## Modern Technical Writing: An Introduction to Software Documentation, by David Etter
+David Etter's book, "Modern Technical Writing: An Introduction to Software Documentation," provides guidance for creating effective and maintainable documentation. He suggests using lightweight markup languages and static site generators, integrating documentation with engineering code, and storing documentation in distributed version control systems. Etter also emphasizes the importance of contributions from subject matter experts, testing and researching extensively before writing, and publishing documentation on websites instead of PDFs for up-to-date information. By following these practices, technical writers can create useful and accessible documentation that supports the needs of their users.
 ## Instructions
-
-Before we get started on the instructions, I'd like to sum up the key principles of creating documentation, explained by Andrew Etter in his book "Modern Technical Writing". These are beneficial to know as you will be following these steps when hosting/formatting your resume.
 
 1. Use lightweight markup
 2. Use Distributed Version Control
