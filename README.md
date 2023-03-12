@@ -27,14 +27,14 @@ Now, we can get started and use these principles as a guideline.
 
 - Open [RubyInstaller](https://rubyinstaller.org/downloads/) and download the newest version of Ruby WITH DEVKIT.
 - Select all default options for installation.
-- Run the `ridk install` at the end of the installation wizard
-- Select the option `MSYS2 and MINGW development tool chain`
+- Run the `ridk install` at the end of the installation wizard.
+- Select the option `MSYS2 and MINGW development tool chain`.
 
 2. Install Jekyll
 
 - Open a new command prompt by typing in `cmd` on the search bar of your computer.
-- Type `gem install jekyll bundler`
-- Type `jekyll -v` to assure it was downloaded correctly
+- Type `gem install jekyll bundler`.
+- Type `jekyll -v` to assure it was downloaded correctly.
 
 ### Download and edit a resume theme
 
@@ -42,21 +42,23 @@ Now, we can get started and use these principles as a guideline.
 - Go to [RubyGems](https://rubygems.org/).
 - Search "Jekyll resume theme".
 - Click on any resume theme that might interest you.
-- Click "Homepage" under links to view and download the theme
+ -  I used [Alembic](https://jekyllthemes.io/theme/alembic).
+- Click "Homepage" under links to view and download the theme.
 - Scroll down until you reach README for further instruction on the given theme.
   - Note: Some themes require you to have already created a static site, so I will quickly show you how to set that up.
 - Open a new command prompt by typing in `cmd` on the search bar of your computer.
 - Enter the folder where you saved the static website to by typing `cd "foldername"`.
-- Type `jekyll new resume`
+- Type `jekyll new resume`.
   - Note: "resume" can be any name you'd like.
 - Follow the instructions of the README of the theme you chose to go with. This will include editing the theme as well.
 
 2. Run the static website theme locally
-- pen a new command prompt by typing in cmd on the search bar of your computer.
-- Enter the folder where you saved the static website to by typing cd "foldername".
+- Open a new command prompt by typing in cmd on the search bar of your computer.
+- Enter the folder where you saved the static website to by typing `cd "foldername"`.
 - Type `bundle install`.
 - Type `bundle exec jekyll serve`.
-- Copy the link of the website and post it into a web browser.
+- Copy the server address and post it into a web browser.
+ - Server address: http://127.0.0.1:4000/
 
 ### Host your resume on GitHub Pages
 
@@ -68,20 +70,19 @@ Now, we can get started and use these principles as a guideline.
   - Note: It may be easier to name the repository the same as your website. (In this case, resume).
 - Keep all default settings and create the repository.
 
-1. Edit YAML file
+2. Edit YML file
 - Open your documents and locate the folder of the resume that will be hosted.
 - Open the config.yml file.
 - Locate the line that says `baseurl:` and type in the name of the repository you just created.
 
 3. Git commands
-
 - Open a new command prompt.
-- Use `cd` to enter the folder you will be hosting on GitHub Pages.
-- Type in `git init'
-- Type `git checkout -b gh-pages`
-- Type `git add .`
-- Type `git commit -m "anyMessageYouWant"`.
-- Go back to GitHub and copy the link on the right of "git remote add origin".
+- Use `cd`to change into the folder you will be using to host on.
+- Type `git init'
+- Then `git checkout -b gh-pages`
+- Then `git add .`
+- Then `git commit -m "anyMessageYouWant"`.
+- Go back to GitHub and copy the link to the right of "git remote add origin".
 - Go back to the command prompt and type in `git remote add origin link` where link is the link you just coppied off GitHub.
 - Type `git push origin gh-pages`.
 
