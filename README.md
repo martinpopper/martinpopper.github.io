@@ -42,7 +42,7 @@ Now, we can get started and use these principles as a guideline.
 - Go to [RubyGems](https://rubygems.org/).
 - Search "Jekyll resume theme".
 - Click on any resume theme that might interest you.
- -  I used [Alembic](https://jekyllthemes.io/theme/alembic).
+ - I used [Alembic](https://jekyllthemes.io/theme/alembic).
 - Click "Homepage" under links to view and download the theme.
 - Scroll down until you reach README for further instruction on the given theme.
   - Note: Some themes require you to have already created a static site, so I will quickly show you how to set that up.
