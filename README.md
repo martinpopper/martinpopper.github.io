@@ -7,9 +7,9 @@
 
 ## Prerequisites
 
-- [A GitHub Account.] (https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
+- [A GitHub Account.](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
 - A Resume formatted in Markdown.
-- [Git installed] (https://git-scm.com/downloads)
+- [Git installed](https://git-scm.com/downloads)
 
 ## Instructions
 
