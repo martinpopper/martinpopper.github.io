@@ -58,7 +58,8 @@ Now, we can get started and use these principles as a guideline.
 - Type `bundle install`.
 - Type `bundle exec jekyll serve`.
 - Copy the server address and post it into a web browser.
- - Server address: http://127.0.0.1:4000/
+  - Server address: http://127.0.0.1:4000/
+
 
 ### Host your resume on GitHub Pages
 
@@ -100,6 +101,6 @@ Now, we can get started and use these principles as a guideline.
 
 ## FAQs
 - Why is Markdown better than a word processor?
-  - answer
-- Why is my resume not showing up?
-  - answer
+  - Markdown helps to enforce consistent formatting and styling across different documents. This is particularly useful for technical writing, where consistency and clarity are important.
+- Can I use an older version of Ruby?
+  - Yes! However the instructions for installation might be different. 
