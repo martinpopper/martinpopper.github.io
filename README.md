@@ -59,7 +59,8 @@ Now, we can get started and use these principles as a guideline.
 - Type `bundle exec jekyll serve`.
 - Copy the server address and post it into a web browser.
   - Server address: http://127.0.0.1:4000/
-
+![gif1](https://github.com/martinpopper/martinpopper.github.io/blob/main/7e8mti.gif)
+![gif2](https://github.com/martinpopper/martinpopper.github.io/blob/main/7e8mc1.gif)
 
 ### Host your resume on GitHub Pages
 
