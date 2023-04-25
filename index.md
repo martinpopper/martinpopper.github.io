@@ -32,7 +32,7 @@
 #### 2023 Winter Semester
 
 - Collaborated with a team to conduct research on maximizing creativity in virtual spaces.
-- Researched different academic papers.
+- Researched multiple academic papers.
 - Developed and implemented experimental designs and software.
 - Demonstrated strong written and verbal communication skills through writing reports, presenting research findings, and collaborating with other team members.
 
